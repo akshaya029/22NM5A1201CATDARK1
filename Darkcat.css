@@ -1,0 +1,51 @@
+.dark-cat{
+    background-color: black;
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.img1{
+    height: 100px;
+    width: 150px;
+}
+.img2{
+    height: 250px;
+}
+.card{
+    background-color: grey;
+    height: 150px;
+    width: 200px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+.para{
+    color: blue;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 500;
+    text-align: center;
+}
+.p-on{
+    background-color: green;
+    border-radius: 10px;
+    height: 50px;
+    width: 80px;
+    font-family: "Roboto";
+    border-width: 0px;
+}
+.p-off{
+    background-color: red;
+    border-radius: 10px;
+    height: 50px;
+    width: 80px;
+    font-family: "Roboto";
+    border-width: 0px;
+}
